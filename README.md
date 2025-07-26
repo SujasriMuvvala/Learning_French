@@ -1,15 +1,16 @@
-# Learning_French# 
-🎯 Lessons Completed
-- Basics 1 (Duolingo)
-- Learned: Bonjour, Merci, Oui, Non
+# 🇫🇷 Learning French with Duolingo
 
-### ✨ Notes
-- "Bonjour" means Hello
-- "Merci" means Thank you
-- "Oui" = Yes, "Non" = No
+Welcome to my personal GitHub notebook where I document my journey of learning **French** using **Duolingo** and self-study.  
+This space helps me stay consistent, track my progress, and organize all that I learn in one place!
 
-### 🌱 Practice Sentences
-- Bonjour, je suis Sujasri — Hello, I am Sujasri
-- Merci beaucoup — Thank you very much
+---
 
-✅ Feeling: Excited to start my journey!
+## 🎯 Why I'm Learning French
+
+- I want to make my job and career path easier
+- Improve my communication skills
+- Build a strong foundation in a new language
+- Stay committed by tracking everything on GitHub
+
+---
+
