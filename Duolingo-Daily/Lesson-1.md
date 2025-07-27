@@ -1,5 +1,6 @@
 UNIT-1 
 VOCABULARY:
+--------------------------------
   Je suis Sujasri- I am Sujasri
   C'est un chat- It's a cat
   Un chat Mange- A cat is eating
